@@ -4,7 +4,7 @@ PingPong is a Restful API that have only one purpose: Playing Ping Pong, Table T
 
 ## Usage
 
-Run:  `C:\yourDirectory\PingPong\bin\Debug\net6.0\PingPong.exe`
+Run:  `C:\\yourDirectory\PingPong\bin\Debug\net6.0\PingPong.exe`
 
 url: `http://localhost:5000/PingPong/`
 

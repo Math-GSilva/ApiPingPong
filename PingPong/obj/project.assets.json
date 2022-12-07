@@ -5615,11 +5615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\source\\repos\\PingPong\\PingPong\\PingPong.csproj",
+      "projectUniqueName": "C:\\Projects\\ApiPingPong\\PingPong\\PingPong.csproj",
       "projectName": "PingPong",
-      "projectPath": "C:\\Users\\Matheus\\source\\repos\\PingPong\\PingPong\\PingPong.csproj",
+      "projectPath": "C:\\Projects\\ApiPingPong\\PingPong\\PingPong.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\source\\repos\\PingPong\\PingPong\\obj\\",
+      "outputPath": "C:\\Projects\\ApiPingPong\\PingPong\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",

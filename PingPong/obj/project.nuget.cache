@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RQ/PjYLhU6eBcBSgZpyGvHZNDizYkJXlGtXWZ7k/eJ70c3I4QJ3qlA+rdTtpZs5Z/1S+yCbk24P6j2+6lbmu4w==",
+  "dgSpecHash": "lVofYu0fCmn7Cz66dRo9HPdiYM2AUDsg14PhZbz9XOSDiBxfgzY45o1tM3uX7V4nK8jwwzla4o8tIVPhI2e3Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus\\source\\repos\\PingPong\\PingPong\\PingPong.csproj",
+  "projectFilePath": "C:\\Projects\\ApiPingPong\\PingPong\\PingPong.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",

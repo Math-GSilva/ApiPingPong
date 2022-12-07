@@ -2,6 +2,8 @@
 
 PingPong is a Restful API that have only one purpose: Playing Ping Pong, Table Tenis, wathever. But it's a different method to play, is just for developers.
 
+![alt text](![image](https://user-images.githubusercontent.com/50594095/206066498-84dd706e-bdac-4254-8363-14c0a6076530.png))
+
 ## Usage
 
 Run:  `C:\\yourDirectory\PingPong\bin\Debug\net6.0\PingPong.exe`
